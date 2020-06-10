@@ -4,7 +4,7 @@
 La entrega del parcial es utilizando **el mismo repositorio git donde fue clonado este proyecto**. Incluso los archivos extras (adjuntos) se deben colocar dentro de la carpeta `adjuntos_parcial/` y subir al repositorio.
 
 ### Branch
-Una vez clonado el repositorio, se debe realizar un branch con el nombre `{sede}-{tema}-{apellido}` (sin espacios ni caracteres especiales ni acentos).
+Una vez clonado el repositorio, se debe realizar un branch con el nombre `{sede}-{tema}-{apellido}` (sin espacios ni caracteres especiales ni tildes).
 
 Por ejemplo, para el **Alumno de Rauch Perez Alejandro que tiene el tema B**:
 * `git checkout -b rauch-b-perez`
@@ -23,7 +23,7 @@ Para importar la base de datos se deben seguir estos pasos
 1. Entrar a phpMyAdmin: `http://localhost/phpmyadmin`
 2. Crear una nueva base de datos con el nombre **correspondiente al tema** (`db_huellas`, `db_ranchito` o `db_covid`)
 3. Entrar a la base de datos nueva e ir a "importar" en el menu superior
-4. Importar la base de datos seleccionande el archivo desde `database/db_*.sql`
+4. Importar la base de datos seleccionando el archivo desde `database/db_*.sql`
 
 Suerte :)
 
