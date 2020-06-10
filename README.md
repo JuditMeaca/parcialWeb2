@@ -6,8 +6,8 @@ La entrega del parcial es utilizando **el mismo repositorio git donde fue clonad
 ### Branch
 Una vez clonado el repositorio, se debe realizar un branch con el nombre `{sede}-{tema}-{apellido}` (sin espacios ni caracteres especiales ni tildes).
 
-Por ejemplo, para el **Alumno de Rauch Perez Alejandro que tiene el tema B**:
-* `git checkout -b rauch-b-perez`
+Por ejemplo, para el **Alumno de Rauch Perez Alejandro que tiene el tema A**:
+* `git checkout -b rauch-a-perez`
 
 ### Push
 Una vez terminado el trabajo, se debe commitear y pushear a la rama del alumno/a:
